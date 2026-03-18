@@ -37,7 +37,7 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/stephenjuma',
+    href: 'https://linkedin.com/in/stephen-juma-a13489150',
     gradient: 'from-blue-600 to-blue-800',
   },
 ];

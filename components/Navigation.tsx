@@ -84,7 +84,7 @@ export default function Navigation() {
                 <Github size={20} />
               </motion.a>
               <motion.a
-                href="https://linkedin.com/in/stephenjuma"
+                href="https://linkedin.com/in/stephen-juma-a13489150"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.2, rotate: 10 }}
@@ -148,7 +148,7 @@ export default function Navigation() {
                   <Github size={24} />
                 </a>
                 <a
-                  href="https://linkedin.com/in/stephenjuma"
+                  href="https://linkedin.com/in/stephen-juma-a13489150"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white"
