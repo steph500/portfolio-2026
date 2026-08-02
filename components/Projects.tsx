@@ -5,6 +5,16 @@ import { ExternalLink, Github, Star, GitFork } from 'lucide-react';
 
 const projects = [
   {
+    name: 'ZidiSales',
+    description: 'Multi-tenant AI sales operations for WhatsApp-heavy businesses, with catalogue-backed enquiries, deterministic commercial rules, human approvals, orders, inventory controls, and audit history.',
+    tech: ['Next.js', 'FastAPI', 'PostgreSQL', 'TypeScript', 'AI'],
+    stars: 0,
+    forks: 0,
+    language: 'TypeScript',
+    color: 'from-emerald-500 to-cyan-500',
+    url: 'https://zidisales.selfawaretech.com',
+  },
+  {
     name: 'JobBot',
     description: 'Automated job application system with AI-powered resume optimization. Handles multi-platform job searching and applications with intelligent targeting.',
     tech: ['TypeScript', 'Python', 'Ollama', 'Next.js'],
